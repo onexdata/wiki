@@ -30,4 +30,6 @@ g fds
 	 g 
 	 dfg s
 	 g 
-	 d![Capture](/uploads/capture.png "Capture")
+	 d
+	 
+![Capture](/uploads/capture.png "Capture")
